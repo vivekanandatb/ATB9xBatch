@@ -7,7 +7,7 @@ public class Ternary002 {
             int age = 18;
             String Result = age>18 ? "Allowed to vote" :"Not allowed to vote";
             System.out.println(Result);
-            
+
 
 
         }
