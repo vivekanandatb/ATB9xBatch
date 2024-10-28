@@ -1,4 +1,4 @@
-package Oct.Oct251024Functions.Oct231024Functions;
+package Oct.Oct251024Strings;
 
 public class Lab36Strings {
     public static void main(String[] args) {
