@@ -1,6 +1,6 @@
 package Nov.Tasks;
 
-public class mainclass extends Dog {
+public class mainclass {
     public static void main(String[] args) {
         // Create object
         Dog dog1 = new Dog();
