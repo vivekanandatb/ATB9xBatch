@@ -21,6 +21,8 @@ public class Lab37StringEqualsPart2 {
         System.out.println(s3 == s5);
 
 
+        System.out.println("");
+
         // equals ( content) -> value
         // How can I check the values? equals == value
 
